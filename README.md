@@ -1,3 +1,23 @@
+Shashank Malviya's DevOps Portfolio
+
+🚀 About Me
+I'm Shashank Malviya, a dedicated DevOps Engineer specializing in Development, DevOps, and Platform Engineering from 🇮🇳 India. With 3.5 years of professional experience in both onsite and remote environments, I focus on building production-ready applications and scalable cloud infrastructure. My passion lies in creating efficient, automated, and reliable DevOps pipelines.
+
+🔭 Currently working on: Cloud-native solutions, AI-driven DevOps pipelines, and Platform Engineering.
+🌱 Always learning: Emerging DevOps tools, cloud architectures, and best practices.
+👯 Looking to collaborate on: Open-source DevOps projects and innovative cloud solutions.
+💬 Ask me about: Python, Cloud Architecture, Kubernetes, CI/CD, and Platform Engineering.
+⚡ Fun fact: I enjoy solving complex infrastructure challenges!
+
+🛠️ Tech Stack
+Languages & Frameworks
+    
+Cloud & DevOps
+       
+Databases & Monitoring
+     
+🏗️ DevOps Project Architecture
+Below is the architecture diagram for my end-to-end DevOps pipeline, showcasing a modern workflow from code development to deployment and monitoring.
 graph LR
     A[Developer Environment<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> VS Code] -->|Code Push| B[GitHub<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>]
     
@@ -28,29 +48,4 @@ graph LR
         I --> O[Prometheus<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40"/>]
         I --> P[Grafana<br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/>]
         I --> Q[Splunk<br><img src="https://www.splunk.com/content/dam/splunk2/images/icons/icon-splunk.svg" width="40" height="40"/>]
-        I --> R[AppDynamics<br><img src="https://www.appdynamics.com/etc.clientlibs/appdynamics/clientlibs/clientlib-site/resources/images/appd-logo.svg" width="40" height="40"/>]
-        O --> S[Incident Response]
-        P --> S
-        Q --> S
-        R --> S
-    end
-
-    style A fill:#f4f4f4,stroke:#0078d4,stroke-width:2px,color:#333
-    style B fill:#f4f4f4,stroke:#4078c0,stroke-width:2px,color:#333
-    style C fill:#f4f4f4,stroke:#4078c0,stroke-width:2px,color:#333
-    style D fill:#f4f4f4,stroke:#d24939,stroke-width:2px,color:#333
-    style E fill:#f4f4f4,stroke:#0db7ed,stroke-width:2px,color:#333
-    style F fill:#f4f4f4,stroke:#ff9900,stroke-width:2px,color:#333
-    style G fill:#f4f4f4,stroke:#00a4ef,stroke-width:2px,color:#333
-    style H fill:#f4f4f4,stroke:#ff6a00,stroke-width:2px,color:#333
-    style I fill:#f4f4f4,stroke:#326ce5,stroke-width:2px,color:#333
-    style J fill:#f4f4f4,stroke:#326ce5,stroke-width:2px,color:#333
-    style K fill:#f4f4f4,stroke:#326ce5,stroke-width:2px,color:#333
-    style L fill:#f4f4f4,stroke:#326ce5,stroke-width:2px,color:#333
-    style M fill:#f4f4f4,stroke:#ff9900,stroke-width:2px,color:#333
-    style N fill:#f4f4f4,stroke:#333,stroke-width:2px,color:#333
-    style O fill:#f4f4f4,stroke:#e6522c,stroke-width:2px,color:#333
-    style P fill:#f4f4f4,stroke:#d83b01,stroke-width:2px,color:#333
-    style Q fill:#f4f4f4,stroke:#00a1d6,stroke-width:2px,color:#333
-    style R fill:#f4f4f4,stroke:#004d7f,stroke-width:2px,color:#333
-    style S fill:#f4f4f4,stroke:#333,stroke-width:2px,color:#333
+        I --> R[AppDynamics<br><img src="https://www.appdynamics.com/etc.clientlibs/appdynamics/clientlibs
