@@ -1,22 +1,23 @@
 <!-- 🌟 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Shashank+Malviya!;DevOps+Engineer+%7C+Cloud+Engineer+%7C+Automation+Expert;Building+Scalable+CI%2FCD+Pipelines+%26+Cloud+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hello+I'm+Shashank+Malviya!;DevOps+Engineer+%7C+Cloud+%7C+Automation+Expert;Turning+Ideas+into+Scalable+Infrastructure" alt="Typing Animation" />
 </p>
 
 ---
 
-# 👋 Hi, I’m **Shashank Malviya**
-### **DevOps Engineer | Cloud Engineer | Automation Enthusiast**
+# 👋 Hi there! I'm **Shashank Malviya**
+**DevOps Engineer | Cloud Engineer | Automation Enthusiast**
 
-💡 I specialize in automating systems, building cloud-native architectures, and improving engineering efficiency.  
-🌱 Currently upskilling in **Advanced DevOps, AWS, Kubernetes, Terraform, Jenkins, GitHub Actions, Observability**.  
-🚀 I love solving complex real-world problems using DevOps + Cloud.  
+🌱 Currently learning **Advanced DevOps, AWS, Docker, Kubernetes, Jenkins, Terraform, Prometheus-Grafana, GitHub Actions**  
+🎯 Focused on **Building Scalable CI/CD Pipelines + Cloud Infrastructure**  
+💡 Passionate about **DevOps, Open Source, Automation & Cloud Native Tools**  
+🚀 Always excited to learn new technologies and solve real-world problems.
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 My Tech Stack
 
-### 🛠 **DevOps & Cloud**
+### 🛠 DevOps & Cloud:
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-316CE6?logo=kubernetes&logoColor=white)
@@ -24,12 +25,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### ⚙ **CI/CD Tools**
+### ⚙ CI/CD:
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/ArgoCD-FE7A16?logo=argo&logoColor=white)
 
-### 📊 **Monitoring & Observability**
+### 📊 Monitoring:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F47A20?logo=grafana&logoColor=white)
 
@@ -48,23 +49,21 @@
 
 ---
 
-# 🔄 CI/CD Pipeline Architecture
+# 🔄 CI/CD Pipeline Architecture (Your existing diagram retained)
 ![CI/CD Pipeline](https://raw.githubusercontent.com/shashankmalv/shashankmalv/main/pipeline.png)
 
 ---
 
-# 📌 About Me
+# 📌 About Me (Existing Section Improved)
 
-I’m a **DevOps Engineer** with hands-on experience in:
+👨‍💻 I’m a **DevOps Engineer** with hands-on experience in  
+✔ CI/CD pipelines  
+✔ Containerization (Docker + Kubernetes)  
+✔ Infrastructure as Code (Terraform)  
+✔ Cloud Deployment (AWS)  
+✔ Observability (Prometheus + Grafana)  
 
-✔ Designing CI/CD pipelines  
-✔ Dockerizing & orchestrating apps using Kubernetes  
-✔ Writing Infrastructure-as-Code using Terraform  
-✔ Deploying scalable apps on AWS  
-✔ Monitoring with Prometheus & Grafana  
-✔ Automating workflows for reliability & performance  
-
-I love building scalable DevOps systems and Cloud Native architectures.
+🤝 I love collaborating on DevOps + Cloud Native projects.
 
 ---
 
@@ -77,4 +76,5 @@ I love building scalable DevOps systems and Cloud Native architectures.
 
 ---
 
-⭐ *If you like my work, feel free to star the repositories!*
+⭐ **Don’t forget to star the repositories you like!**
+![Uploading image.png…]()
